@@ -1,5 +1,5 @@
 {
-    "name": "TheraBot Development Container",
+    "name": "Tutor-Connect Development Container",
     "dockerFile": "Dockerfile",
     "forwardPorts": [
       3000
